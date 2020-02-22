@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "clients": [
+    { "id": 1, "title": "sc-6101", "port": 6101 },
+    { "id": 2, "title": "sc-6102", "port": 6102 },
+    { "id": 3, "title": "sc-6103", "port": 6103 },
+    { "id": 4, "title": "sc-6104", "port": 6104 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
