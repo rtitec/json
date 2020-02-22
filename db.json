@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "client": [
     {
       "id": 1,
-      "title": "hello"
+      "port": 6101,
+      "title": "sc-6101",
+      "ip":""
+    },
+    {
+      "id": 2,
+      "port": 6102,
+      "title": "sc-6102",
+      "ip":""
     }
   ],
   "profile": {
