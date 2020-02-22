@@ -1,9 +1,12 @@
 {
-  "client": [
-      { "id": 1, "port": 6101, "title": "sc-6101", "ip": "" },
-      { "id": 2, "port": 6102, "title": "sc-6102", "ip": "" },
-      { "id": 3, "port": 6103, "title": "sc-6103", "ip": "" }
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
