@@ -1,10 +1,8 @@
 {
   "client": [
-    {
-      "id": 1,
-      "port": 6101,
-      "title": "sc-6101",
-      "ip": ""
+      { "id": 1, "port": 6101, "title": "sc-6101", "ip": "" },
+      { "id": 2, "port": 6102, "title": "sc-6102", "ip": "" },
+      { "id": 3, "port": 6103, "title": "sc-6103", "ip": "" }
     }
   ],
   "profile": {
