@@ -1,7 +1,7 @@
 {
   "clients": [
     { "id": 201, "machine": "sc-6201", "server_address": "", "server_port": 7000, "local_ip": "127.0.0.1", "local_port":22, "remote_port": 6201 },
-    { "id": 202, "machine": "sc-6202", "server_address": "", "server_port": 7000, "local_ip": "127.0.0.1", "local_port":22, "remote_port": 6202 },
+    { "id": "1ACDDE12212-21212-CDEE", "machine": "sc-6202", "server_address": "", "server_port": 7000, "local_ip": "127.0.0.1", "local_port":22, "remote_port": 6202 },
     { "id": 203, "machine": "sc-6203", "server_address": "", "server_port": 7000, "local_ip": "127.0.0.1", "local_port":22, "remote_port": 6203 },
     { "id": 204, "machine": "sc-6204", "server_address": "", "server_port": 7000, "local_ip": "127.0.0.1", "local_port":22, "remote_port": 6204 }
   ],
